@@ -1,5 +1,10 @@
 ## nguniversal-express-engine-meta-tags-replacer
 
+![language](https://img.shields.io/badge/language-JavaScript-yellow.svg)
+![license](https://img.shields.io/badge/license-ISC-green)
+[![npm version](https://img.shields.io/npm/v/nguniversal-express-engine-meta-tags-replacer.svg?style=flat)](https://npmjs.org/package/nguniversal-express-engine-meta-tags-replacer)
+[![npm download](https://img.shields.io/npm/dt/nguniversal-express-engine-meta-tags-replacer.svg)](https://npmjs.org/package/nguniversal-express-engine-meta-tags-replacer)
+
 ### Description
 This package provides a function for handling the page request in
 Angular SSR app, which needs its specific `meta` tag `content` attribute
