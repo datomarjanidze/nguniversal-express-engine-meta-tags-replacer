@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "description": "",
-  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "author": "Dato Marjanidze",
   "license": "ISC",
   "repository": "https://github.com/datomarjanidze/nguniversal-express-engine-meta-tags-replacer",
   "scripts": {
